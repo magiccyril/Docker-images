@@ -4,7 +4,7 @@ MAINTAINER "Cyril Gravelier" <cyril@18ruedivona.eu>
 WORKDIR /tmp
 
 RUN apt-get update -y && \
-    apt-get install -y curl git php5-mcrypt php5-gd && \
+    apt-get install -y curl git && \
     curl -sS https://getcomposer.org/installer | php && \
     mv composer.phar /usr/local/bin/composer && \
     apt-get remove --purge curl -y && \
