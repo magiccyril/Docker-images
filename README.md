@@ -3,8 +3,8 @@
 Collection of Docker images.
 
 ## PHP
-* [PHP Composer](https://github.com/magiccyril/Docker-images/tree/master/Php-composer)
-* [Drupal Drush](https://github.com/magiccyril/Docker-images/tree/master/Drupal-drush) (not working)
+* [PHP Composer](https://hub.docker.com/u/magiccyril/php-composer/)
+* [Drupal Drush](https://hub.docker.com/u/magiccyril/drupal-drush/) (not working)
 
 ## Data-only container
-* [Drupal Data](https://github.com/magiccyril/Docker-images/tree/master/Drupal-data)
+* [Drupal Data](https://hub.docker.com/u/magiccyril/drupal-data/)
