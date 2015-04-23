@@ -7,4 +7,4 @@ Collection of Docker images.
 * [Drupal Drush](https://hub.docker.com/u/magiccyril/drupal-drush/) (not working)
 
 ## Data-only container
-* [Drupal Data](https://hub.docker.com/u/magiccyril/drupal-data/)
+* [Data](https://hub.docker.com/u/magiccyril/data/)
