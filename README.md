@@ -3,8 +3,7 @@
 Collection of Docker images.
 
 ## PHP
-* [PHP Composer](https://hub.docker.com/u/magiccyril/php-composer/)
-* [Drupal Drush](https://hub.docker.com/u/magiccyril/drupal-drush/) (not working)
+* [divona-php:7-FPM](https://hub.docker.com/u/magiccyril/divona-php/)
 
 ## Data-only container
 * [Data](https://hub.docker.com/u/magiccyril/data/)
