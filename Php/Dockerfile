@@ -13,6 +13,7 @@ RUN apt-get update && apt-get install -y \
     && docker-php-ext-install opcache \
     && docker-php-ext-install mbstring \
     && docker-php-ext-install pdo pdo_mysql
+COPY php.ini /usr/local/etc/php/
 EXPOSE 9000
 VOLUME /var/www/html
 CMD ["php-fpm"]
